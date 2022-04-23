@@ -1,3 +1,8 @@
 {
-    "merge-conflict.autoNavigateNextConflict.enabled": false
+    "merge-conflict.autoNavigateNextConflict.enabled": false,
+    "cSpell.words": [
+        "cifar",
+        "Healthcheck",
+        "niahdi"
+    ]
 }
